@@ -1,0 +1,23 @@
+{
+  "name": "kafka-consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swingcoop/kafka-consumer.git"
+  },
+  "author": "Philip Manijak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swingcoop/kafka-consumer/issues"
+  },
+  "homepage": "https://github.com/swingcoop/kafka-consumer#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}

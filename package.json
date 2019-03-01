@@ -18,8 +18,9 @@
   },
   "homepage": "https://github.com/swingcoop/kafka-consumer#readme",
   "dependencies": {
-    "airtable": "^0.5.9",
+    "dotenv": "^6.2.0",
     "kafkajs": "^1.4.8",
-    "koa": "^2.7.0"
+    "koa": "^2.7.0",
+    "pg": "^7.8.1"
   }
 }
